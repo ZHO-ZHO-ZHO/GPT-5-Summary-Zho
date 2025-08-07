@@ -1,5 +1,7 @@
 # GPT-5 发布总结
 
+<img width="2310" height="1132" alt="screenshot-20250808-032718" src="https://github.com/user-attachments/assets/5afe4947-b1f5-46cd-9e2b-86d685f792cc" />
+
 
 ## 直播字幕/时间戳（使用 Gemini 提取）：
 
